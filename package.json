@@ -1,0 +1,14 @@
+{
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Def",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3"
+  }
+}
