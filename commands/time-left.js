@@ -8,7 +8,7 @@
    |****  ⚠️ ALL COPYRIGHTS GOSE TO DEF(http://discord.com/users/933856726770413578) ⚠️  ****|
    |****  ⚠️ ALL COPYRIGHTS GOSE TO DEF(http://discord.com/users/933856726770413578) ⚠️  ****|
  */
-
+             
 const { Client, CommandInteraction } = require("discord.js");
 const ms = require("ms");
 const db = require("quick.db");
